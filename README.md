@@ -74,7 +74,7 @@ git checkout -b <branch>
 
 Create and check out a new branch named <branch>.
 Drop the -b flag to checkout an existing branch.
-``
+```
 
 Stage files
 ```
@@ -84,8 +84,7 @@ Stage all changes in <directory> for the next commit.
 Replace <directory> with a <file> to change a specific file.
 ```
 
-Create and check out a new branch named <branch>.
-Drop the -b flag to checkout an existing branch.
+Create a commit.
 ```
 git commit -m "message"
 
